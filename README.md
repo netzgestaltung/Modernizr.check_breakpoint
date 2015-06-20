@@ -6,7 +6,7 @@
 * Modernizr.mq()
 
 ## support for respond.js
-* supports oder browser when respond.js with mediaquery support is used
+* supports older browser when respond.js with mediaquery support is used
 * requires Modernizr.mediaqueriesrespond and Modernizr.viewport() (they come bundled within)
 
 ## License
