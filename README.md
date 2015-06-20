@@ -9,7 +9,7 @@
 * supports older browser when respond.js with mediaquery support is used
 * requires Modernizr.mediaqueriesrespond and Modernizr.viewport() (they come bundled within)
 
-## License
+## license
 * GPLv2
 
 ## usage
